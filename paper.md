@@ -1,5 +1,5 @@
 ---
-title: "Should Nature Streamline Its Final Submission Guidelines?"
+title: "Should _Nature_ Streamline Its Final Submission Guidelines?"
 author: "Harsh Torane"
 date: "15 September 2026"
 fontsize: 12pt
