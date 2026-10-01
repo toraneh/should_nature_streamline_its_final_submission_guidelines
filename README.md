@@ -4,13 +4,13 @@ An empirical study examining whether Nature's final submission guidelines could 
 
 ## Overview
 
-This study analyzes Nature's final submission guidelines and investigates empirically whether the current requirements could be simplified or reorganized for improved clarity and adherence. The analysis draws on published guidance documents and field observations from the submission process.
+This study analyzes Nature's final submission guidelines and investigates whether the current requirements could be simplified or reorganized to improve clarity and adherence. The analysis draws on published guidance materials and the procedural experience of manuscript preparation.
 
 ## Contents
 
 - **paper.md** – Full analysis in Markdown format
 - **paper.pdf** – PDF version of the paper
-- **data/** – Guidelines and reference materials
+- **data/** – guidelines and reference materials
 
 ## Citation
 
