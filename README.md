@@ -8,10 +8,8 @@ This study analyzes Nature's final submission guidelines and investigates whethe
 
 ## Contents
 
-- **paper.md** – Full analysis in Markdown format
+- **paper.md** – Markdown version of the paper
 - **paper.pdf** – PDF version of the paper
-- **data/** – guidelines and reference materials
-
 ## Citation
 
 > Torane, H. "Should Nature Streamline Its Final Submission Guidelines?". *Preprint*. Zenodo, September 15, 2026. https://doi.org/10.5281/zenodo.22772836
